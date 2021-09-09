@@ -1,1 +1,2 @@
-alert('Hola usuario');
+usuarioNombre = prompt('Ingrese su nombre');
+alert(`Hola ${usuarioNombre}!, bienvenido.`);
